@@ -1,0 +1,31 @@
+h1{
+    background-color: green;
+    color: whitesmoke;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    text-emphasis: open;
+}
+
+.button{
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 12px;
+    border: none;
+    margin: 5px;
+}
+
+.button:hover{
+    color: beige;
+}
+
+div{
+    text-align: center;
+}
