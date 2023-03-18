@@ -1,0 +1,21 @@
+.counter-button{
+    background-color: rgb(26, 76, 185);
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 12px;
+    border: none;
+    margin: 5px;
+}
+
+.counter-button:hover{
+    background-color: rgb(13, 51, 134);
+    color: antiquewhite;
+    border-radius: 15px;
+}
+
+.result{
+    text-align: center;
+    font-size: 25px;
+}
