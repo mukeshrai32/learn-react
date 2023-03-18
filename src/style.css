@@ -12,7 +12,7 @@ h3{
 }
 
 .button{
-    background-color: green;
+    background-color: rgb(16, 167, 16);
     color: white;
     padding: 15px 30px;
     text-align: center;
@@ -23,7 +23,9 @@ h3{
 }
 
 .button:hover{
-    color: beige;
+    background-color: rgb(3, 116, 3);
+    color: antiquewhite;
+    border-radius: 32px;
 }
 
 div{
